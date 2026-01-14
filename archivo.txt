@@ -11,10 +11,7 @@ npx tsc --init
 ESLint
 Error Lens
 Prettier - Code formatter
-SonarLint
-Code Spell Checker
-Path Intellisense
-TODO Highlight
+TypeScript Language Features (VS Code)
 
 # 5. Ejecutar programa
 npx ts-node correcto.ts
